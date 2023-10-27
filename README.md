@@ -21,3 +21,4 @@ Here are some ideas to get you started:
 </a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=House-lovers7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=House-lovers7&layout=compact&margin-w=6&margin-h=6)](https://github.com/ryo-ma/github-profile-trophy)
