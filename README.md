@@ -1,24 +1,34 @@
-### Hi there 👋
+# Hi, I'm Taisuke
 
-<!--
-**House-lovers7/House-lovers7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineer building practical security and automation tools for the AI-assisted development era.
 
-Here are some ideas to get you started:
+## Current focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- AI-assisted development security
+- Supabase / PostgreSQL / Row Level Security
+- Static analysis for database migrations
+- DevSecOps guardrails for solo developers and small teams
+- CDN / WAF / edge security verification
 
+## Featured OSS
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=House-lovers7&count_private=true&show_icons=true" />
-</a>
+### supabase-rls-guard
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=House-lovers7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=House-lovers7&layout=compact&margin-w=6&margin-h=6)](https://github.com/ryo-ma/github-profile-trophy)
+A zero-config CLI that statically scans Supabase migration SQL for dangerous Row Level Security mistakes before you ship.
+
+It catches issues like:
+
+- missing RLS
+- dangerous policies
+- broad grants
+- views without security_invoker
+- functions without fixed search_path
+
+Repository:
+https://github.com/House-lovers7/supabase-rls-guard
+
+## Other projects
+
+- edge-checker: WAF/CDN defense verification harness
+- shopify_api_architecture: Shopify GraphQL data pipeline architecture
+- akamai_data_parser: Akamai-related data parsing utilities
