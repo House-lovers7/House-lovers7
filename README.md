@@ -26,9 +26,3 @@ It catches issues like:
 
 Repository:  
 https://github.com/House-lovers7/supabase-rls-guard
-
-## Other projects
-
-- edge-checker: WAF/CDN defense verification harness
-- shopify_api_architecture: Shopify GraphQL data pipeline architecture
-- akamai_data_parser: Akamai-related data parsing utilities
