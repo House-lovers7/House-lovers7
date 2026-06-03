@@ -21,10 +21,10 @@ It catches issues like:
 - missing RLS
 - dangerous policies
 - broad grants
-- views without security_invoker
-- functions without fixed search_path
+- views without `security_invoker`
+- functions without fixed `search_path`
 
-Repository:
+Repository:  
 https://github.com/House-lovers7/supabase-rls-guard
 
 ## Other projects
